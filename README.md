@@ -9,6 +9,9 @@
     <a href="https://www.github.com/FedeMontenegro">My Repository</a>
 </p>
 
+
+<p align="right"><img src="https://user-images.githubusercontent.com/56899837/168923343-24dd567f-db36-4549-8e70-8dcf8d8e8181.jpg" alt="fedemontenegro" width="550" height="400"/></p>
+
 <h2>About me</h2>
 
 - **Location**: Argentina 🇦🇷
