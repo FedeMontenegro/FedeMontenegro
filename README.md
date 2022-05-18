@@ -1,5 +1,4 @@
-<h1 align="center">Hi!, i'm Fede Montenegro &#128526;</h1>
-<h3 align="center">Web Developer Jr.</h3>
+<p align="right"><img src="https://user-images.githubusercontent.com/56899837/169143364-1c996d77-12b2-4618-8bf2-8bdc84fc99cd.png" alt="fedemontenegro" width="1000" height="500"/></p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/federicojulianmontenegro">LinkedIn</a>
@@ -8,9 +7,6 @@
     ·
     <a href="https://www.github.com/FedeMontenegro">My Repository</a>
 </p>
-
-
-<p align="right"><img src="https://user-images.githubusercontent.com/56899837/169061040-f30c047e-fe28-4222-93fe-d5e4cb9a4c74.jpg" alt="fedemontenegro" width="1000" height="500"/></p>
 
 <h2>About me</h2>
 
@@ -23,9 +19,6 @@
 
 - [Monsape](https://github.com/byeaimebye/Grupo_6_Monsape)
 - [Alkemy Client](https://github.com/alkemyTech/OT173-client-js) and [Alkemy Server](https://github.com/alkemyTech/OT173-server-js)
-
-
-<p><img src="https://komarev.com/ghpvc/?username=fedemontenegro&label=Profile%20views&color=0e75b6&style=flat" alt="fedemontenegro" /></p>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -112,6 +105,8 @@
 ---
 
 ![FedeMontenegro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=FedeMontenegro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p><img src="https://komarev.com/ghpvc/?username=fedemontenegro&label=Profile%20views&color=0e75b6&style=flat" alt="fedemontenegro" /></p>
 <!--
 <p align="left"><img align="right" src="https://user-images.githubusercontent.com/56899837/146776535-79535d96-b77b-408d-9cb8-621718a5d178.gif" alt="" /></p>
 
