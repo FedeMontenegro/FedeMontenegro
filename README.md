@@ -10,7 +10,7 @@
 
 <h2>About me</h2>
 
-- **Location**: Argentina 🇦🇷
+- **Location**: Córdoba, Argentina 🇦🇷
 - **Profession**: Developer
 - **Present**: I'm FullStack JavaScript Developer <a href="https://www.alkemy.org">Alkymer</a> and volunteer on <a href="https://www.ayp.org.ar/">Arte y parte</a>
 - **Study on**: <a href="https://www.famaf.unc.edu.ar/">FAMAF</a>
