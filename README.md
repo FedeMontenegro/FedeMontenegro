@@ -12,7 +12,7 @@
 
 - **Location**: Córdoba, Argentina 🇦🇷
 - **Profession**: Developer
-- **Present**: I'm FullStack JavaScript Developer <a href="https://www.alkemy.org">Alkymer</a> and volunteer on <a href="https://www.ayp.org.ar/">Arte y parte</a>
+- **Present**: I'm FullStack Web Developer
 - **Study on**: <a href="https://www.famaf.unc.edu.ar/">FAMAF</a>
 
 <h2>My Collabs</h2>
